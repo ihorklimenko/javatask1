@@ -53,11 +53,11 @@ public class Main {
 //            System.out.println("Password ok");
 //        else System.out.println("Password wrong");
     //5.
-//        Scanner vvod = new Scanner(System.in);
-//            int x = vvod.nextInt();
-//            int y = vvod.nextInt();
-//            System.out.println("Sum= " + (x + y));
-//            System.out.println("Mutli= " + (x * y));
+//        Scanner scan = new Scanner(System.in);
+//            int x = scan.nextInt();
+//            int y = scan.nextInt();
+//            System.out.println("Сумма= " + (x + y));
+//            System.out.println("Произведение= " + (x * y));
     //6.
 //        System.out.println("Введите количество чисел:");
 //        Scanner scanner = new Scanner(System.in);
